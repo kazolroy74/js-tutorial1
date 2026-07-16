@@ -1,0 +1,11 @@
+let b1=true;
+console.log(b1);
+let b2=false;
+console.log(b2);
+let age=null;
+console.log(age);
+let a;
+console.log(a);
+let s1=Symbol("Geeks");
+let s2=Symbol("Geeks");
+console.log(s1===s2);
